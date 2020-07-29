@@ -83,6 +83,8 @@ Step by step instructions for Windows PCs:
 
 10. Restart the PVR.
 
+11. Optional step: delete the files specified in step 9, but leave their respective .pyo files.
+
 
 #### Uninstallation:
 
