@@ -84,4 +84,19 @@ Step by step instructions for Windows PCs:
 10. Restart the PVR.
 
 
-To remove the patch, use the FTP application to delete the files specified in step 9, then copy the original files obtained in step 7 back to the PVR, then restart the PVR.
+#### Uninstallation:
+
+1. Delete the files specified in step 9.
+
+2. Copy the original files obtained in step 7 back to the PVR.
+
+3. Restart the PVR.
+
+
+#### Emergency recovery:
+
+In case the uninstallation steps did not work and the PVR becomes unresponsive, you may need to re-flash the original firmware, which can be obtained here: https://www.beyonwiz.com.au/forum/viewforum.php?f=45
+
+For the Beyonwiz V2, you will need to hold down the front power button while the unit is booting up.
+
+For other models the procedure can be found here: http://www.beyonwiz.com.au/media/downloads/HowToUpgradeBeyonwizTSeriesV163.pdf
