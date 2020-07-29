@@ -3,7 +3,7 @@
 
 #### About
 
-This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the following fixes and improvements.
+This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the following fixes and improvements:
 
 Fixes:
 
@@ -58,29 +58,30 @@ Step by step instructions for Windows PCs:
 
 6. Use the FTP application to connect to the PVR using the IP address, username and password from steps 3 and 4.
    
-7. Use the FTP application to take a copy of the following files from the PVR to your PC:
+7. Use the FTP application to copy the following files from the PVR to your PC:
 
-	/usr/lib/enigma2/python/Components/AVSwitch.pyo
-	/usr/lib/enigma2/python/Screens/VideoMode.pyo
-	/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.pyo
-	/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.pyo
+	* /usr/lib/enigma2/python/Components/AVSwitch.pyo
+	* /usr/lib/enigma2/python/Screens/VideoMode.pyo
+	* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.pyo
+	* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.pyo
 	
 	Keep these files in case you want to remove the patch, in which case we will copy them back to the PVR.
    
-8. Download the following files from the Downloads section of the Bitbucket repository:
+8. Download the following files from the Downloads section of this Bitbucket repository:
 
-	AVSwitch.py
-	VideoMode.py
-	VideoEnhancement.py
-	plugin.py
+	* AVSwitch.py
+	* VideoMode.py
+	* VideoEnhancement.py
+	* plugin.py
 	
 9. Use the FTP application to copy the above files to the following locations on the PVR:
 
-	/usr/lib/enigma2/python/Components/AVSwitch.py
-	/usr/lib/enigma2/python/Screens/VideoMode.py
-	/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
-	/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
+	* /usr/lib/enigma2/python/Components/AVSwitch.py
+	* /usr/lib/enigma2/python/Screens/VideoMode.py
+	* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
+	* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
 
 10. Restart the PVR.
+
 
 To remove the patch, use the FTP application to delete the files specified in step 9, then copy the original files obtained in step 7 back to the PVR, then restart the PVR.
