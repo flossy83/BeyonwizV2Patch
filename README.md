@@ -52,12 +52,16 @@ Before installation it is recommended to backup your system configuration settin
 
 4. Select "install patch" (green key).
 
+5. Restart the PVR.
+
 
 #### Removal
 
 1. Navigate to the plugins menu and select Beyonwiz Patch (unofficial).
 
 2. Select "remove patch" (red key).
+
+3. Restart the PVR.
 
 
 #### Emergency recovery:
