@@ -48,7 +48,7 @@ Before installation it is recommended to backup your system configuration settin
 
 2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
-3. Navigate to the plugins menu and select 'Beyonwiz Patch (unofficial)'.  The following screen will appear:
+3. Navigate to the plugins menu and select 'Beyonwiz Patch (unofficial)'.
 
 4. Select 'Install patch' (green key).
 
