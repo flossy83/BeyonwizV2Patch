@@ -31,7 +31,7 @@ Improvements:
 * AV Settings: add GUI option to increase detection of video mode and aspect
 * AV Settings: consistently apply video mode and aspect on userOK
 
-\* only for chipset 3798mv200
+\* only for chipset 3798MV200
 
 
 #### System Requirements
