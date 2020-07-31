@@ -7,6 +7,7 @@ This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the fol
 
 Fixes:
 
+* Video enhancements: auto flesh enabled when set to 0 *
 * Autores/multi: non-30fps video detected as 30fps *
 * Autores: redundant display mode initialisations *
 * Autores/multi: video_progressive = -1 not handled
