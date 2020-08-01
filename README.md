@@ -3,7 +3,7 @@
 
 #### About
 
-This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the following fixes and improvements:
+This release is an unofficial patch for the Beyonwiz PVR and provides the following fixes and improvements:
 
 Fixes:
 
