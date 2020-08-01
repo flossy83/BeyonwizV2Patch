@@ -82,3 +82,5 @@ In case the installation or removal steps did not work and the PVR becomes unres
 For the Beyonwiz V2 you will need to hold down the front power button while the unit is booting up.
 
 For other models the procedure can be found here: http://www.beyonwiz.com.au/media/downloads/HowToUpgradeBeyonwizTSeriesV163.pdf
+
+After re-flashing the original firmware, you can restore your original configuration settings from the backup you made previously via main menu > setup > software manager > restore backup.
