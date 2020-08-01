@@ -29,7 +29,7 @@ Improvements:
 * Aspect ratio: remove redundant setting, nomenclature *
 * Colour space: default to YCbCr444, remove redundant setting, nomenclature *
 * Video enhancements: remove redundant colour space setting, nomenclature
-* AV Settings: add GUI option to increase detection of video mode and aspect
+* AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
 
 \* only for chipset 3798MV200
