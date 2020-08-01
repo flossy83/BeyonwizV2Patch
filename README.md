@@ -7,12 +7,12 @@ This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the fol
 
 Fixes:
 
-* Video enhancements: auto flesh not disabled when set to 0 *
-* Aspect ratio: wrong aspect for non-16:9 content *
-* Autores/multi: non-30fps video detected as 30fps *
-* Autores: redundant display mode initialisations *
-* AV Settings: incorrect colour after playing 2160p/HDR content *
-* AV Settings: colour space reverting to RGB after applying 2160p modes *
+* Video enhancements: auto flesh not disabled when set to 0
+* Aspect ratio: wrong aspect for non-16:9 content
+* Autores/multi: non-30fps video detected as 30fps
+* Autores: redundant display mode initialisations
+* AV Settings: incorrect colour after playing 2160p/HDR content
+* AV Settings: colour space reverting to RGB after applying 2160p modes
 * Autores/multi: video_progressive = -1 not handled
 * Autores/multi: falling back to invalid modes
 * AV Settings: wrong port/mode/rate shown after disconfirming display mode
@@ -26,8 +26,8 @@ Improvements:
 * Autores: new mode ordering and defaults
 * Autores: remove duplicate delay setting
 * Aspect ratio: always show in GUI
-* Aspect ratio: remove redundant setting, nomenclature *
-* Colour space: default to YCbCr444, remove redundant setting, nomenclature *
+* Aspect ratio: remove redundant setting, nomenclature
+* Colour space: default to YCbCr444, remove redundant setting, nomenclature
 * Video enhancements: remove redundant colour space setting, nomenclature
 * AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
@@ -46,7 +46,7 @@ This patch was written and tested on a Beyonwiz V2 running firmware 19.3.2020032
 
 The patch contains all the original unpatched code, and will only run the new patched code if it detects your box is a Beyonwiz V2.
 
-The new code was written to also be compatible with other Beyonwiz boxes running firmware 19.3.20200328, and has been tested on a Beyonwiz T2.  These models will receive the same fixes and improvements except for those which are specific to the V2's chipset.
+The new code was written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, and has been tested on a Beyonwiz T2.  Some of the fixes and improvements are specific to Beyonwiz V2 and will not be applied to other models.
 
 
 #### Installation
