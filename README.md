@@ -34,12 +34,19 @@ Improvements:
 
 \* only for chipset 3798MV200
 
+Files modified:
+
+* /usr/lib/enigma2/python/Components/AVSwitch.py
+* /usr/lib/enigma2/python/Screens/VideoMode.py
+* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
+* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
+
 
 #### System Requirements
 
 This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328.
 
-It also appears to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, however you will need to manually edit one of the source code files to specify which other models the patch should also apply to (by default it only applies to Beyonwiz V2).
+It has been written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, however you will need to manually edit one of the source code files to specify which other models the patch should also apply to (by default it only applies to Beyonwiz V2).
 
 
 #### Installation
