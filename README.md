@@ -3,7 +3,7 @@
 
 #### About
 
-This release is an unofficial patch for the Beyonwiz PVR and provides the following fixes and improvements:
+This release is an unofficial patch for the Beyonwiz PVR.  It includes the following fixes and improvements:
 
 Fixes:
 
@@ -51,7 +51,7 @@ The new code was written to be compatible with other Beyonwiz boxes running firm
 
 #### Installation
 
-Before installation it is recommended to backup your system configuration settings in case something goes wrong and you have to reflash the original firmware.  This can be accessed by main menu > setup > software manager > create backup.
+Before installation it's recommended to backup your system configuration settings in case something goes wrong and you have to reflash the original firmware.  This can be accessed by main menu > setup > software manager > create backup.
 
 1. Download the .ipk file from the downloads section and copy it to a USB drive.
 
