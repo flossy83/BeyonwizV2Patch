@@ -46,7 +46,9 @@ Files modified:
 
 This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328.
 
-It has been written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, however you will need to manually edit one of the source code files to specify which other models the patch should also apply to (by default it only applies to Beyonwiz V2).
+The patch contains all the original unpatched code, and will only run the new patched code if it detects your box is a Beyonwiz V2.
+
+The new patched code was written to also be compatible with other Beyonwiz boxes running firmware 19.3.20200328, however you will need to manually edit one of the source code files to specify which other models the patch should also apply to.
 
 
 #### Installation
