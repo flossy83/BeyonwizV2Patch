@@ -7,13 +7,14 @@ This release is an unofficial patch for the Beyonwiz V2 PVR. It provides the fol
 
 Fixes:
 
-* Video enhancements: auto flesh enabled when set to 0 *
+* Video enhancements: auto flesh not disabled when set to 0 *
+* Aspect ratio: wrong aspect for non-16:9 content *
 * Autores/multi: non-30fps video detected as 30fps *
 * Autores: redundant display mode initialisations *
+* AV Settings: incorrect colour after playing 2160p/HDR content *
+* AV Settings: colour space reverting to RGB after applying 2160p modes *
 * Autores/multi: video_progressive = -1 not handled
 * Autores/multi: falling back to invalid modes
-* Aspect ratio: wrong aspect for non-16:9 content *
-* AV Settings: colour space reverting to RGB after applying 2160p modes *
 * AV Settings: wrong port/mode/rate shown after disconfirming display mode
 
 Improvements:
