@@ -11,7 +11,7 @@ Fixes:
 * Aspect ratio: wrong aspect for non-16:9 content
 * Autores/multi: non-30fps video detected as 30fps
 * Autores: redundant display mode initialisations
-* AV Settings: incorrect colour after playing 2160p/HDR content
+* AV Settings: incorrect colour after playing HDR content
 * AV Settings: colour space reverting to RGB after applying 2160p modes
 * Autores/multi: video_progressive = -1 not handled
 * Autores/multi: falling back to invalid modes
@@ -32,6 +32,12 @@ Improvements:
 * AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
 
+Unresolved issues:
+
+* 23.976fps content cannot be output at 23.976hz
+* System becomes unresponsive for approx. 30 seconds after playing 60fps content
+* Sharpness setting becomes nonfunctional after playing HDR content
+
 Files modified:
 
 * /usr/lib/enigma2/python/Components/AVSwitch.py
@@ -46,7 +52,7 @@ This patch was written and tested on a Beyonwiz V2 running firmware 19.3.2020032
 
 The patch contains all the original unpatched code, and will only run the new patched code if it detects your box is a Beyonwiz V2.
 
-The new code was written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, and has been tested on a Beyonwiz T2.  Some of the fixes and improvements are specific to Beyonwiz V2 and will not be applied to other models.
+The new code was written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, and has been tested on a Beyonwiz T2.  Many of the fixes and improvements are specific to Beyonwiz V2 and will not be applied to other models.
 
 
 #### Installation
