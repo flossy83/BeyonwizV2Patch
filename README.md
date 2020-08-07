@@ -28,8 +28,8 @@ Improvements:
 * Autores: remove duplicate delay setting
 * Aspect ratio: always show in GUI
 * Aspect ratio: remove redundant setting, nomenclature
-* Colour space: default to YCbCr444, remove redundant setting, nomenclature
-* Video enhancements: remove redundant colour space setting, nomenclature
+* Colour space: default to YCbCr444, remove redundant settings, nomenclature
+* Video enhancements: remove redundant settings, nomenclature
 * AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
 
