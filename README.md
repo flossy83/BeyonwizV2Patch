@@ -39,7 +39,7 @@ Unresolved issues:
 * System becomes unresponsive for approx. 30 seconds after playing 60fps content
 * Incorrect colourimetry when video output mode is 576i
 * Sharpness setting becomes nonfunctional after playing HDR content
-* Sharpness setting behaves inconsistently when adjusted (fix: tiny.cc/AutoSharpness)
+* Sharpness setting behaves inconsistently if adjusted after reboot (fix: tiny.cc/AutoSharpness)
 * EPG events missing from graphical EPG view when event start/end times overlap 
 
 Files modified:
