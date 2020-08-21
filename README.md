@@ -28,9 +28,9 @@ Improvements:
 * Autores: new mode ordering and defaults
 * Autores: remove duplicate delay setting
 * Aspect ratio: always show in GUI
-* Aspect ratio: remove redundant setting, nomenclature
-* Colour space: default to YCbCr444, remove redundant settings, nomenclature
-* Video enhancements: remove redundant settings, nomenclature
+* Aspect ratio: remove redundant setting, new nomenclature
+* Colour space: default to YCbCr444, remove redundant settings, new nomenclature
+* Video enhancements: remove redundant settings, new nomenclature
 * AV Settings: consistently apply video mode and aspect on userOK
 * Movie player: remove redundant service restart on exit
 
