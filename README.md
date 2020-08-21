@@ -32,15 +32,16 @@ Improvements:
 * Video enhancements: remove redundant settings, nomenclature
 * AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
+* Movie player: remove redundant service restart on exit
 
 Unresolved issues:
 
 * 23.976fps content cannot be output at 23.976hz
-* System becomes unresponsive for approx. 30 seconds after playing 60fps content
+* System becomes unresponsive when video output mode is 60hz
 * Incorrect colourimetry when video output mode is 576i
 * Sharpness setting becomes nonfunctional after playing HDR content
 * Sharpness setting behaves inconsistently if adjusted after reboot (fix: tiny.cc/AutoSharpness)
-* EPG events missing from graphical EPG view when event start/end times overlap 
+* Events missing from EPG when event start/end times overlap 
 
 Files modified:
 
@@ -48,6 +49,7 @@ Files modified:
 * /usr/lib/enigma2/python/Screens/VideoMode.py
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
+* /usr/lib/enigma2/python/Screens/MovieSelection.py
 
 
 #### System Requirements
