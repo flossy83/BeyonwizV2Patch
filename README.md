@@ -20,7 +20,8 @@ Fixes:
 
 Improvements:
 
-* Autores: detect up to 2160p + vertical videos, improved accuracy
+* Autores: detect up to 2160p + vertical videos with improved accuracy
+* Autores: increase detection of video content change
 * Autores: support 1080i and 1080p independently
 * Autores: remove redundant modes: 25hz, 30hz
 * Autores: add i60/p60 suffix to 60hz modes
@@ -30,7 +31,6 @@ Improvements:
 * Aspect ratio: remove redundant setting, nomenclature
 * Colour space: default to YCbCr444, remove redundant settings, nomenclature
 * Video enhancements: remove redundant settings, nomenclature
-* AV Settings: add GUI option to increase detection of video content
 * AV Settings: consistently apply video mode and aspect on userOK
 * Movie player: remove redundant service restart on exit
 
