@@ -41,7 +41,7 @@ Unresolved issues:
 * Incorrect colourimetry when video output mode is 576i
 * Sharpness setting becomes nonfunctional after playing HDR content
 * Sharpness setting behaves inconsistently if adjusted after reboot (fix: tiny.cc/AutoSharpness)
-* Events randomly missing from EPG 
+* Events randomly missing from EPG cache
 
 Files modified:
 
