@@ -84,7 +84,7 @@ Before installation it's recommended to backup your system configuration setting
 
 3. After installation is complete, restart the PVR.
 
-You can also optionally remove the patch installer by navigating to the plugins menu and selecting 'remove plugins' (red key) then select the Beyonwiz V2 Patch plugin.
+You can also optionally remove the patch installer by navigating to the plugins menu and selecting 'remove plugins' (red key).  Select the Beyonwiz V2 Patch plugin, then restart the PVR.
 
 
 #### Emergency recovery:
