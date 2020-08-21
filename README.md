@@ -69,20 +69,22 @@ Before installation it's recommended to backup your system configuration setting
 
 2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
-3. Navigate to the plugins menu and select 'Beyonwiz Patch (unofficial)'.
+3. Navigate to the plugins menu and select 'Beyonwiz V2 Patch'.
 
-4. Select 'Install patch' (green key).
+4. Select 'Install' (green key).
 
-5. Restart the PVR.
+5. After installation is complete, restart the PVR.
 
 
 #### Removal
 
-1. Navigate to the plugins menu and select Beyonwiz Patch (unofficial).
+1. Navigate to the plugins menu and select Beyonwiz V2 Patch.
 
-2. Select 'Remove patch' (red key).
+2. Select 'Uninstall' (yellow key).
 
-3. Restart the PVR.
+3. After installation is complete, restart the PVR.
+
+You can also optionally remove the patch installer by navigating to the plugins menu and selecting 'remove plugins' (red key) then select the Beyonwiz V2 Patch plugin.
 
 
 #### Emergency recovery:
