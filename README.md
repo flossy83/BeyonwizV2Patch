@@ -46,10 +46,10 @@ Unresolved issues:
 Files modified:
 
 * /usr/lib/enigma2/python/Components/AVSwitch.py
-* /usr/lib/enigma2/python/Screens/VideoMode.py
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
 * /usr/lib/enigma2/python/Screens/MovieSelection.py
+* /usr/lib/enigma2/python/Screens/VideoMode.py
 
 
 #### System Requirements
