@@ -3,7 +3,7 @@
 
 #### About
 
-This release is an unofficial patch for the Beyonwiz PVR.  It includes the following fixes and improvements:
+This release is an unofficial patch for the Beyonwiz V2 PVR.  It includes the following fixes and improvements:
 
 Fixes:
 
@@ -54,11 +54,9 @@ Files modified:
 
 #### System Requirements
 
-This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328.
+This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328.  It is expected to be compatible with other firmware versions, as it doesn't appear to contain any firmware-specific dependencies.
 
-The patch contains all the original unpatched code, and will only run the new patched code if it detects your box is a Beyonwiz V2.
-
-The new code was written to be compatible with other Beyonwiz boxes running firmware 19.3.20200328, and has been tested on a Beyonwiz T2.  Many of the fixes and improvements are specific to Beyonwiz V2 and will not be applied to other models.
+It is also expected to be compatible with other Beyonwiz boxes such as T2, T3, T4 and U4, however the author has only tested it on V2 and T2.  Many of the fixes and improvements are specific to Beyonwiz V2 and will not be applied to other models.
 
 
 #### Installation
