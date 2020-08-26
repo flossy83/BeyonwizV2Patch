@@ -80,7 +80,7 @@ Before installation it's recommended to backup your system configuration setting
 
 2. Select 'Uninstall' (yellow key).
 
-3. After installation is complete, restart the PVR.
+3. After uninstallation is complete, restart the PVR.
 
 You can also optionally remove the plugin by navigating to the system plugins menu and selecting 'remove plugins' (red key) and selecting the 'Beyonwiz V2 Patch' plugin.  Once complete, restart the PVR.
 
