@@ -14,8 +14,8 @@ Fixes:
 * AV Settings: incorrect colour after playing HDR content
 * AV Settings: colour space reverting to RGB after applying 2160p modes
 * DVB tuner: persistent frame rate stutter after signal interference on HD channels
-* Autores/multi: video_progressive = -1 not handled
-* Autores/multi: falling back to invalid modes
+* Autores/multi: unhandled progressive/interlaced value of -1
+* Autores/multi: falling back to invalid display mode strings
 * AV Settings: wrong port/mode/rate shown after disconfirming display mode
 
 Improvements:
