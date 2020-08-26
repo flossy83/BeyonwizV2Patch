@@ -21,7 +21,7 @@ Fixes:
 Improvements:
 
 * Autores: detect up to 2160p + vertical videos with improved accuracy
-* Autores: increased detection of video content change
+* Autores: increase detection of video content change
 * Autores: support 1080i and 1080p independently
 * Autores: remove redundant modes: 25hz, 30hz
 * Autores: add i60/p60 suffix to 60hz modes
