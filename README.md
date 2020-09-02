@@ -9,7 +9,7 @@ Fixes:
 
 * Video enhancements: auto flesh not disabled when set to 0
 * Aspect ratio: wrong aspect for non-16:9 content
-* Autores/multi: non-30fps video detected as 30fps
+* Autores/multi: video frame rate incorrectly detected as 30fps
 * Autores: redundant display mode initialisations
 * AV Settings: incorrect colour after playing HDR content
 * AV Settings: colour space reverting to RGB after applying 2160p modes
