@@ -83,7 +83,7 @@ Before installation it's recommended to backup your system configuration setting
 You can also optionally remove the plugin by navigating to the system plugins menu and selecting 'remove plugins' (red key) and selecting the 'Beyonwiz V2 Patch' plugin.  Once complete, restart the PVR.
 
 
-#### Emergency recovery:
+#### Emergency recovery
 
 In case the installation or removal steps did not work and the PVR becomes unresponsive, you may need to re-flash the original firmware, which can be obtained here: https://www.beyonwiz.com.au/forum/viewforum.php?f=45
 
@@ -92,3 +92,8 @@ For the Beyonwiz V2 you will need to hold down the front power button while the 
 For other models the procedure can be found here: http://www.beyonwiz.com.au/media/downloads/HowToUpgradeBeyonwizTSeriesV163.pdf
 
 After re-flashing the original firmware, you can restore your original configuration settings from the backup you made previously via main menu > setup > software manager > restore backup.
+
+
+#### Screenshot
+
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot3.png)
