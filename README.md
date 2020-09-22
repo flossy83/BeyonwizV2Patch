@@ -58,7 +58,7 @@ Files modified:
 
 This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328 and 19.3.20200901.
 
-It should also be compatible with future versions of 19.3, however this cannot be guaranteed in case future Beyonwiz firmware modifies any dependencies.
+It should also be compatible with future versions of 19.3, however this cannot be guaranteed in case future Beyonwiz firmware modifies any of its dependencies.
 
 
 #### Installation
