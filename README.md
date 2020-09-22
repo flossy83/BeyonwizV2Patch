@@ -27,7 +27,7 @@ Improvements:
 * Autores: add i60/p60 suffix to 60hz modes
 * Autores: new mode ordering and defaults
 * Autores: remove duplicate delay setting
-* Aspect ratio: always show in GUI, remove redundant setting, new nomenclature
+* Aspect ratio: always show in AV settings, remove redundant setting, new nomenclature
 * Colour space: default to YCbCr444, remove redundant settings, new nomenclature
 * Video enhancements: remove redundant settings, new nomenclature
 * AV Settings: consistently apply video mode and aspect on OK
