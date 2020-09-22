@@ -47,11 +47,11 @@ Unresolved issues:
 Files modified:
 
 * /usr/lib/enigma2/python/Components/AVSwitch.pyo
+* /usr/lib/enigma2/python/Plugins/Extensions/AutoTimer/AutoTimerEditor.pyo
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.pyo
 * /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.pyo
 * /usr/lib/enigma2/python/Screens/MovieSelection.pyo
 * /usr/lib/enigma2/python/Screens/VideoMode.pyo
-* /usr/lib/enigma2/python/Plugins/Extensions/AutoTimer/AutoTimerEditor.pyo
 
 
 #### System Requirements
