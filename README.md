@@ -27,17 +27,17 @@ Improvements:
 * Autores: add i60/p60 suffix to 60hz modes
 * Autores: new mode ordering and defaults
 * Autores: remove duplicate delay setting
-* Aspect ratio: always show in GUI
-* Aspect ratio: remove redundant setting, new nomenclature
+* Aspect ratio: always show in GUI, remove redundant setting, new nomenclature
 * Colour space: default to YCbCr444, remove redundant settings, new nomenclature
 * Video enhancements: remove redundant settings, new nomenclature
-* AV Settings: consistently apply video mode and aspect on userOK
+* AV Settings: consistently apply video mode and aspect on OK
 * Movie player: remove redundant service restart on exit
+* AutoTimer: append event title to custom record path when importing from EPG 
 
 Unresolved issues:
 
 * 23.976fps content cannot be output at 23.976hz
-* System becomes unresponsive when video output mode is 60hz
+* System may become unresponsive when video output mode is 60hz
 * Incorrect colourimetry when video output mode is 576i
 * Sharpness setting becomes nonfunctional after playing HDR content
 * Sharpness setting behaves inconsistently if adjusted after reboot (fix: [tiny.cc/AutoSharpness](https://tiny.cc/AutoSharpness))
@@ -46,16 +46,19 @@ Unresolved issues:
 
 Files modified:
 
-* /usr/lib/enigma2/python/Components/AVSwitch.py
-* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.py
-* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py
-* /usr/lib/enigma2/python/Screens/MovieSelection.py
-* /usr/lib/enigma2/python/Screens/VideoMode.py
+* /usr/lib/enigma2/python/Components/AVSwitch.pyo
+* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/VideoEnhancement.pyo
+* /usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.pyo
+* /usr/lib/enigma2/python/Screens/MovieSelection.pyo
+* /usr/lib/enigma2/python/Screens/VideoMode.pyo
+* /usr/lib/enigma2/python/Plugins/Extensions/AutoTimer/AutoTimerEditor.pyo
 
 
 #### System Requirements
 
-This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328.  It should also be compatible with other firmware versions as it doesn't appear to contain any version-specific dependencies, however this cannot be guaranteed.
+This patch was written and tested on a Beyonwiz V2 running firmware 19.3.20200328 and 19.3.20200901.
+
+It should also be compatible with future versions of 19.3, however this cannot be guaranteed in case future Beyonwiz firmware modifies any dependencies.
 
 
 #### Installation
