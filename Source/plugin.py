@@ -479,7 +479,7 @@ class Installer(Screen):
 			if md5 != self.payloads[self.patchVer][f]:
 				log("installPatch() failed to verify md5 of %s" % source)	
 				message = "Unable to install patch as a file's md5 checksum could not be " \
-				"verified: " % source 
+				"verified: %s" % source 
 				return message
 			else: log("installPatch() verified Payload%s: %s" % (f, md5))
 		
