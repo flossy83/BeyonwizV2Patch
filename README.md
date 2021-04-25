@@ -20,6 +20,8 @@ Fixes:
 
 Improvements:
 
+* AutoTimer: append event title to custom record path when importing from EPG
+* Movie player: remove redundant service restart on exit
 * Autores: detect up to 2160p + vertical videos with improved accuracy
 * Autores: increase detection of video content change
 * Autores: support 1080i and 1080p independently
@@ -31,8 +33,6 @@ Improvements:
 * Colour space: default to YCbCr444, remove redundant settings, new nomenclature
 * Video enhancements: remove redundant settings, new nomenclature
 * AV Settings: consistently apply video mode and aspect on OK
-* Movie player: remove redundant service restart on exit
-* AutoTimer: append event title to custom record path when importing from EPG 
 
 Unresolved issues:
 
