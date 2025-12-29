@@ -103,5 +103,5 @@ After re-flashing the original firmware, you can restore your original configura
 
 #### Download
 
-Due to Bitbucket no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/BeyonwizV2Patch) (releases section).
+Due to Bitbucket downloads no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/BeyonwizV2Patch) (releases section).
 
