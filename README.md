@@ -65,7 +65,7 @@ It should also be compatible with future versions of 19.3, however this cannot b
 
 Before installation it's recommended to backup your system configuration settings in case something goes wrong and you have to reflash the original firmware.  This can be accessed by main menu > setup > software manager > create backup.
 
-1. Download the .ipk file from the downloads section and copy it to a USB drive.
+1. Download the .ipk file from the download section and copy it to a USB drive.
 
 2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
@@ -99,3 +99,9 @@ After re-flashing the original firmware, you can restore your original configura
 #### Screenshot
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot3.png)
+
+
+#### Download
+
+Due to Bitbucket no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/BeyonwizV2Patch) (releases section).
+
