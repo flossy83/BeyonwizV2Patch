@@ -101,7 +101,4 @@ After re-flashing the original firmware, you can restore your original configura
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot3.png)
 
 
-#### Download
-
-Due to Bitbucket downloads no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/BeyonwizV2Patch) (releases section).
 
