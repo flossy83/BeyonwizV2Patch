@@ -40,7 +40,7 @@ Unresolved issues:
 * System may become unresponsive when video output mode is 60hz
 * Incorrect colourimetry when video output mode is 576i
 * Sharpness setting becomes nonfunctional after playing HDR content
-* Sharpness setting behaves inconsistently if adjusted after reboot (fix: [tiny.cc/AutoSharpness](https://tiny.cc/AutoSharpness))
+* Sharpness setting behaves inconsistently if adjusted after reboot (fix: [https://github.com/flossy83/AutoSharpness](https://github.com/flossy83/AutoSharpness))
 * Events occasionally missing from EPG cache
 * Inconsistent detection of interlace/progressive on certain media files
 
